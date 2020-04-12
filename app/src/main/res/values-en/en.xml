@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guesstheanswer2</string>
+    <string name="button_return_text">back</string>
+    <string name="false_text">false</string>
+    <string name="guess_game_title">guess game</string>
+    <string name="question_title_bar">question</string>
+    <string name="share_question_text_button">share the question</string>
+    <string name="share_question_title">share the question with friends</string>
+    <string name="text_view_question">text view question</string>
+    <string name="true_text"> true </string>
+    <string name="write_title_of_sharing">write the title of your message</string>
+    <string name="change_lang_text"> change language </string>
+
+
+    <string-array name="questions">
+        <item> The official currency of Kuwait is the Kuwaiti riyal? </item>
+                <item> Toubkal is the highest mountain peak in the Arab world? </item>
+                <item> Algeria is the largest Arab country in terms of area? </item>
+                <item> Casablanca is the capital of Morocco? </item>
+                <item> Kabul is the capital of Afghanistan?</item>
+                <item> The largest invertebrate animal is the jellyfish?  </item>
+                <item>  The Arab country that the Equator passes through is Sudan?  </item>
+                <item>   Is the heart the largest organ in the human body? </item>
+                <item> The first mosque in Islam is the Prophets Mosque?  </item>
+                <item>  The only uncle of your cousins ​​is your father? </item>
+                <item> The worlds first banana producer is Ecuador? </item>
+                <item>  Argentina its capital Baku?  </item>
+                <item>  The currency of Vietnam is dong? </item>
+    </string-array>
+
+
+    <string-array name="answers_details">
+        <item> The official currency of Kuwait is the Kuwaiti riyal? </item>
+                <item> Toubkal is the highest mountain peak in the Arab world? </item>
+                <item> Algeria is the largest Arab country in terms of area? </item>
+                <item> Casablanca is the capital of Morocco? </item>
+                <item> Kabul is the capital of Afghanistan? </item>
+                <item> The largest invertebrate animal is the jellyfish? </item>
+                <item> The Arab country that the Equator passes through is Sudan? </item>
+                <item> Is the heart the largest organ in the human body? </item>
+                <item> The first mosque in Islam is the Prophets Mosque? </item>
+                <item> The only uncle of your cousins ​​is your father? </item>
+                <item> The worlds first banana producer is Ecuador? </item>
+                <item> Argentina its capital Baku? </item>
+                <item> The currency of Vietnam is dong? </item>
+    </string-array>
+
+
+
+
+</resources>
+

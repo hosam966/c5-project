@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Guesstheanswer</string>
+    <string name="false_text">خطأ</string>
+    <string name="true_text">صحيح</string>
+    <string name="text_view_question">نص الاسئله هنا </string>
+    <string name="question_title_bar">السؤال</string>
+    <string name="guess_game_title">لعبه خمن</string>
+    <string name="button_return_text">الرجوع</string>
+    <string name="share_question_title">شارك السؤال مع الاصدقاء</string>
+    <string name="write_title_of_sharing">ادخل عنوان المشاركه</string>
+    <string name="share_question_text_button">نشر السؤال</string>
+    <string name="change_lang_text">تغيير اللغه </string>
+
+    <string-array name="questions">
+        <item> العملة الرسمية لدولة الكويت هي الريال الكويتي؟ </item>
+        <item> توبقال هي أعلى قمة جبلية في العالم العربي؟</item>
+        <item> الجزائر هي أكبر دولة عربية من حيث المساحة؟</item>
+        <item> الدار البيضاء هي عاصمة المغرب؟</item>
+        <item> كابول هى عاصمة افغانستان؟</item>
+        <item> اضخم الحيوانات اللافقرية هو القنديل؟</item>
+        <item> الدولة العربية التي يمر بها خط الاستواء هى السودان؟</item>
+        <item> القلب هو أكبر عضو في جسم الإنسان؟</item>
+        <item> أول مسجد في الإسلام هو المسجد النبوي؟</item>
+        <item>الخال الوحيد لأولاد عمتك هو والدك؟ </item>
+        <item>اولى دول العالم انتاجا للموز هى الاكوادور؟ </item>
+        <item>الأرجنتين عاصمتها باكو؟ </item>
+        <item>عملة فيتنام هى دونج؟ </item>
+
+    </string-array>
+
+    <string-array name="answers_details">
+        <item> العملة الرسمية لدولة الكويت هي الريال الكويتي؟ </item>
+        <item> توبقال هي أعلى قمة جبلية في العالم العربي؟</item>
+        <item> الجزائر هي أكبر دولة عربية من حيث المساحة؟</item>
+        <item> الدار البيضاء هي عاصمة المغرب؟</item>
+        <item> كابول هى عاصمة افغانستان؟</item>
+        <item> اضخم الحيوانات اللافقرية هو القنديل؟</item>
+        <item> الدولة العربية التي يمر بها خط الاستواء هى السودان؟</item>
+        <item> القلب هو أكبر عضو في جسم الإنسان؟</item>
+        <item> أول مسجد في الإسلام هو المسجد النبوي؟</item>
+        <item>الخال الوحيد لأولاد عمتك هو والدك؟ </item>
+        <item>اولى دول العالم انتاجا للموز هى الاكوادور؟ </item>
+        <item>الأرجنتين عاصمتها باكو؟ </item>
+        <item>عملة فيتنام هى دونج؟ </item>
+
+    </string-array>
+
+    <array name="languages" >
+        <item> العربيه</item>
+        <item>English</item>
+    </array>
+
+</resources>
